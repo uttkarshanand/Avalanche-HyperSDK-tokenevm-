@@ -13,7 +13,7 @@
 
 ---
 
-We created the [`tokenvm`](./examples/tokenvm) to showcase how to use the
+We create the [`tokenvm`](./examples/tokenvm) to showcase how to use the
 `hypersdk` in an application most readers are already familiar with, token minting
 and token trading. The `tokenvm` lets anyone create any asset, mint more of
 their asset, modify the metadata of their asset (if they reveal some info), and
